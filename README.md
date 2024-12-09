@@ -1,0 +1,1 @@
+# plasmo-mantine-notification-error
